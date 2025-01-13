@@ -99,8 +99,7 @@
 				<version>3.11.0</version> <!-- Ensure you're using a compatible
 				version -->
 				<configuration>
-					<source>8</source> <!-- Set according to your JDK version -->
-					<target>8</target> <!-- Set according to your JDK version -->
+					 <release>11</release>
 				</configuration>
 			</plugin>
 
